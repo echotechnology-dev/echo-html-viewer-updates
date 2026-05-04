@@ -1,8 +1,10 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "url": "https://checkout.freemius.com/app/27876/plan/46064/",
   "changelog": [
-    "Test update system",
-    "UI improvements"
+    "New PRO features (Snapshot, Shortcut, App Mode)",
+    "Improved UI and user experience",
+    "Better offline page detection",
+    "Stability improvements and bug fixes"
   ]
 }
