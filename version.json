@@ -1,10 +1,9 @@
 {
-  "version": "2.0",
-  "url": "https://checkout.freemius.com/app/27876/plan/46064/",
+  "version": "2.0.1",
+  "url": "https://github.com/echotechnology-dev/echo-html-viewer-updates/releases/download/v2.0.1/Echo.HTML.Viewer.PRO.v2.0.1.Setup.exe",
   "changelog": [
-    "New PRO features (Snapshot, Shortcut, App Mode)",
-    "Improved UI and user experience",
-    "Better offline page detection",
-    "Stability improvements and bug fixes"
+    "Fixed sidebar HTML icons",
+    "Improved shortcut icon handling",
+    "Bug fixes and stability improvements"
   ]
 }
