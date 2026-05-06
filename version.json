@@ -1,10 +1,11 @@
 {
-  "version": "2.1.1",
-  "url": "https://github.com/echotechnology-dev/echo-html-viewer-updates/releases/download/v2.1.1/Echo.HTML.Viewer.PRO.v2.1.1.Setup.exe",
+  "version": "2.2.1",
+  "url": "https://github.com/echotechnology-dev/echo-html-viewer-updates/releases/download/v2.2.1/Echo.HTML.Viewer.PRO.v2.2.1.Setup.exe",
   "changelog": [
-    "Fixed PRO buttons activation issue",
-    "Improved toolbar behavior",
-    "UI improvements",
+    "Improved startup speed",
+    "Improved taskbar and shortcut behavior",
+    "Improved standalone app mode",
+    "Improved sidebar HTML icons",
     "Bug fixes and stability improvements"
   ]
 }
